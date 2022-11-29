@@ -70,6 +70,16 @@ Tech, A. [@AndrobotTECH]. (2020, noviembre 16). TOP 5 Proyectos Electrónicos co
 
 McClain, D., Thomas, N., Youkey, S., Schaller, R., Jiao, J., & O’Brien, K. P. (2009). Impact of oxygen adsorption on a population of mass produced carbon nanotube field effect transistors. Carbon, 47(6), 1493–1500. https://doi.org/10.1016/j.carbon.2009.01.042
 
+Wikipedia contributors. (s/f). Fotorresistor. Wikipedia, The Free Encyclopedia. https://es.wikipedia.org/w/index.php?title=Fotorresistor&oldid=143746471
+
+(S/f). Wikipedia.org. Recuperado el 29 de noviembre de 2022, de https://es.wikipedia.org/wiki/Potenciómetro
+
+Wikipedia contributors. (s/f-b). Led. Wikipedia, The Free Encyclopedia. https://es.wikipedia.org/w/index.php?title=Led&oldid=145788824
+
+# RUBRICA
+
+![image](https://user-images.githubusercontent.com/116814096/200999683-fe53d616-5553-4761-bdf4-e15a280451cb.png)
+
 
 
 
