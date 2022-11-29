@@ -1,8 +1,11 @@
 # INFORME DE LABORATORIO N°1
 
 Nombres:
+
 -Christian Chala  
+
 -Steveen Vallejo
+
 -Ismael Paez
 
 Fecha: 28/11/2022
@@ -21,5 +24,7 @@ OBJETIVOS ESPECIFICOS:
 -Realizar simulaciones utilizando "Tinkercard" antes de ensamblar el circuito con el protoboard.
 
 # 2.	MARCO TEÓRICO (RESUMEN)
+
+![COMPONENTES](https://user-images.githubusercontent.com/117959424/204407415-44455d92-5dcb-408a-b419-06f9efc3e483.png)
 
 
