@@ -79,7 +79,7 @@ Wikipedia contributors. (s/f). Fotorresistor. Wikipedia, The Free Encyclopedia. 
 
 Wikipedia contributors. (s/f-b). Led. Wikipedia, The Free Encyclopedia. https://es.wikipedia.org/w/index.php?title=Led&oldid=145788824
 
-# RUBRICA
+# 8. RUBRICA
 
 ![image](https://user-images.githubusercontent.com/116814096/200999683-fe53d616-5553-4761-bdf4-e15a280451cb.png)
 
